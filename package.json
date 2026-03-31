@@ -2,7 +2,7 @@
   "name": "3350-example",
   "version": "1.0.0",
   "description": "Example for class and building pipelines",
-  "main": "index.js",
+  "main": "BinarySearchTree.js",
   "scripts": {
     "test": "jest"
   },
